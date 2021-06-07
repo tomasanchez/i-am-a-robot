@@ -67,8 +67,6 @@ const siteDetails = {
     );
 })();
 
-// Mulstas ciudad
-
 /**
  * Request recaptcha solution.
  *
