@@ -1,0 +1,6 @@
+#Vscode
+.vscode/
+node_modules/
+
+# API - private data
+config.js
